@@ -1,0 +1,6 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Èö¤ùÿÿÿÿ8­ëĞÑÑ1
+G	java:S106"+Replace this use of System.out by a logger.(²ôí†8¯ëĞÑÑ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¾îÑÑ1
+h
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8²ëĞÑÑ1

@@ -1,4 +1,4 @@
-package edu.cibertec.beans;
+package edu.cibertec.lab01.beans;
 
 public class DocumentoExcel implements Imprimible{
     @Override

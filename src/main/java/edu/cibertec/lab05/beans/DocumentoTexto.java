@@ -1,6 +1,6 @@
-package edu.cibertec.beans;
+package edu.cibertec.lab05.beans;
 
-public class DocumentoTexto implements Imprimible{
+public class DocumentoTexto implements Imprimible {
 
     @Override
     public String imprimir() {

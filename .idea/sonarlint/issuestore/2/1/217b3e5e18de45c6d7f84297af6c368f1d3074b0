@@ -1,0 +1,10 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+Q	java:S125"<This block of commented-out lines of code should be removed.( úÆ
+V	java:S125"<This block of commented-out lines of code should be removed.(‡¿£ýÿÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(¿¾‡Åþÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú
